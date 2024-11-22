@@ -1,7 +1,7 @@
-// a small C++ program
 #include <iostream>
+using namespace std;
 int main()
 {
- std::cout << "Hello, world!" << std::endl;
- return 0;
+cout << "Enjoy yourself with C++!" << endl;
+return 0;
 }
