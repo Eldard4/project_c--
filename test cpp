@@ -1,0 +1,9 @@
+#include <isostream>
+using name space std;
+
+int main ()
+{ 
+    cout <<"welcome to computer engineering ";
+    return 0;
+    
+}
